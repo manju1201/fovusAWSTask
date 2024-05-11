@@ -13,21 +13,20 @@ Go to the [Github Link](https://github.com/manju1201/fovusAWSTask) for the proje
 1. Download the FRONTEND folder.
 2. Navigate into the FRONTEND directory:
 
-sh
+```sh
 cd FRONTEND
-
+```
 
 3. Install the necessary dependencies:
-
-sh
+```sh
 npm install
-
+```
 
 4. Start the development server:
 
-sh
+```sh
 npm start
-
+```
 
 You can now access the page on [https://localhost:3000](https://localhost:3000).
 
@@ -35,8 +34,8 @@ You can now access the page on [https://localhost:3000](https://localhost:3000).
 
 1. Build the site with npm run build.
 2. Upload the contents of the build folder to the Netifly website.
-3. Updated the CORS policy in S3 bucket accordingly.
-4. The site can be accessed at: [Webiste Link](https://fovusassessment.netlify.app/)
+3. Updated the CORS policy in the S3 bucket accordingly.
+4. The site can be accessed at: [Website Link](https://fovusassessment.netlify.app/)
 
 ## AWS Configuration
 
